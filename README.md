@@ -24,10 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pra15mesh&show_icons=true&locale=en&layout=compact" alt="pra15mesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pra15mesh&show_icons=true&locale=en" alt="pra15mesh" /></p>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pra15mesh)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pra15mesh&show_icons=true&theme=Gradient)](https://github.com/pra15mesh)
