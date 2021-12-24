@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/pra15mesh" target="blank"><img src="https://img.shields.io/twitter/follow/pra15mesh?logo=twitter&style=for-the-badge" alt="pra15mesh" /></a> </p>
 
+
+📫 How to reach me 15prathmesh08@gmail.com
+
+⚡ Fun fact I think I am funny XD
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pra15mesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pra15mesh" height="30" width="40" /></a>
