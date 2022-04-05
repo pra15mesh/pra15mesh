@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Badgujar</h1>
-<h3 align="center">A passionate Programmer</h3>
+<h3 align="center">A Passionate Programmer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pra15mesh" alt="pra15mesh" /></a> </p>
 
